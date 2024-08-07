@@ -22,5 +22,5 @@ roscore
 
 if ROS is set up correctly, roscore should start successfully and display messages indicating that the core services are running. Here's an example output:
 <div>
-<img src="https://github.com/user-attachments/assets/947cc853-1548-47ec-98df-f6d79498c900" width=500">
+<img src="https://github.com/user-attachments/assets/947cc853-1548-47ec-98df-f6d79498c900" width=800">
 </div>
