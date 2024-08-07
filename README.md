@@ -24,14 +24,3 @@ if ROS is set up correctly, roscore should start successfully and display messag
 <div>
 <img src="https://github.com/user-attachments/assets/947cc853-1548-47ec-98df-f6d79498c900" width=500">
 </div>
-
-### 2-Install ROS foxy:
-For detailed instructions on installing ROS foxy, please refer to the [official ROS foxy installation guide] ([https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html])
- #### Output Examples:
- Here are some examples of the outputs you should see during the installation process:
-<div>
- <img src="https://github.com/user-attachments/assets/35a8d569-d7f6-45e4-b36b-2b1f5bda85ec" width=500">
- <img src="https://github.com/user-attachments/assets/17156624-5bd4-4a72-882e-048a3baedce8" width=500">
- <img src="https://github.com/user-attachments/assets/4bd1bbc3-fab3-4789-9997-3c9092e1340a" width=500">
- <img src="https://github.com/user-attachments/assets/73d42834-b3ba-4c2f-9fc6-b3be95611332" width=500">
-</div>
